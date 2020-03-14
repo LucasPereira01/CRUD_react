@@ -1,0 +1,12 @@
+{
+    "user":[{
+        "id": 1,
+        "name": "Lucas Pereira do Carmo",
+        "email": "lucaspdocarmo@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"Aluno Etec",
+        "email":"aluno@gmanil.com"
+    }]
+}
